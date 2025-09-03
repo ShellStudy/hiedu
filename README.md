@@ -1,0 +1,2 @@
+# hiedu
+Static Files
