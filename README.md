@@ -1,2 +1,1 @@
-# hiedu
-Static Files
+- [링크](https://shellstudy.github.io/hiedu/)
